@@ -1,0 +1,22 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "a clock where the color changes every second",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "color-clock"
+  },
+  "keywords": [
+    "color",
+    "clock"
+  ],
+  "author": "laura radville",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
