@@ -1,0 +1,22 @@
+{
+  "name": "npm-lab-online-web-ft-071519",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaronLip/npm-lab-online-web-ft-071519.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaronLip/npm-lab-online-web-ft-071519/issues"
+  },
+  "homepage": "https://github.com/BaronLip/npm-lab-online-web-ft-071519#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
